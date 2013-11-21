@@ -6,6 +6,12 @@ Open source Luhn algorithm brute-forcing tool.
 https://github.com/x43x61x69/OpenLuhn
 
 
+Screenshot
+----------
+
+![OpenLuhn](http://d.pr/i/adEC+)
+
+
 Description
 -----------
 
@@ -16,6 +22,13 @@ and it was created for demonstration purpose only.
 More information can be find on Wikipedia:
 
 http://en.wikipedia.org/wiki/Luhn_algorithm
+
+
+Usage
+-----
+
+Either enter a full 16-digit credit card number to verify or replace
+part of the digits with "#" characters for brute-forcing.
 
 
 License
